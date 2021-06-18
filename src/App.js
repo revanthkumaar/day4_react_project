@@ -7,9 +7,8 @@ function App() {
   return (
     <div className="App">
      
-     <FirstComponent/>
-     <SecondComponent/>
-     <p>below is the first component which is written as class</p>
+
+    
      <FirstComponentAsClass/>
     </div>
   );

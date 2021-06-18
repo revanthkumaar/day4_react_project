@@ -4,7 +4,7 @@ function FirstComponent(){
         <div className="FirstComponent">
 
         <h1>Hello, this is first component</h1>
-       <button onClick>First button</button>
+       <button>First button</button>
 
 
         </div>
