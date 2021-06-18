@@ -1,6 +1,14 @@
-function FirstComponent(a,b){
+//functional
+function FirstComponent(){
     return(
-       <button>First button</button>
+        <div className="FirstComponent">
+
+        <h1>Hello, this is first component</h1>
+       <button onClick>First button</button>
+
+
+        </div>
+        
     )
 }
 export default FirstComponent;
